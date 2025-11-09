@@ -1,0 +1,1 @@
+- Generate new content (Text, image, code) by learning from existing data. 

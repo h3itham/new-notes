@@ -1,0 +1,3 @@
+- Swagger is an opensource API Documentation framework. 
+- Json Support and detailed information on the HTTP Methods. 
+- 

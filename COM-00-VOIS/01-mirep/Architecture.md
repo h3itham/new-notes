@@ -1,0 +1,2 @@
+#### Big Picture 
+The system takes raw data files (from sources like SharePoint), ingests them into GCP, and then runs a series of interdependent transformation jobs in BigQuery to create useful, aggregated data.

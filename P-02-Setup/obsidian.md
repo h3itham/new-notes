@@ -1,0 +1,1 @@
+- this vidio for daily note https://www.youtube.com/watch?v=cs1msUGolqs

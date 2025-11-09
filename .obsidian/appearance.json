@@ -1,0 +1,10 @@
+{
+  "cssTheme": "GitHub Theme",
+  "baseFontSize": 18,
+  "textFontFamily": "Arial",
+  "enabledCssSnippets": [
+    "haitham-images"
+  ],
+  "interfaceFontFamily": "Arial",
+  "theme": "obsidian"
+}

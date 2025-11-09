@@ -1,0 +1,17 @@
+- 13 Oct 
+	- [DART-37114](https://jira.sp.vodafone.com/browse/DART-37114 "DART-37114") 
+		- This ticket has no information and I think we should close it move it to next sprint. 
+	- [DART-37114](https://jira.sp.vodafone.com/browse/DART-37114 "DART-37114")
+		- Last week, I raised PR but PCS team didn't approve it, because they had concerns the dataset to be created. this datasets was not included in the HLD. I reached out to Ahmed and discussed it with him, and he said he would discuss that with Robert and Tausif. 
+		- PCS team concens 
+		- What is the purpose of created database. 
+		- As you know this is c4 project which mean it not allowed to grant group permission on datasets. 
+		- Finally these datasets doesn't included in the HLD by lyiza. 
+	- [DART-38469](https://jira.sp.vodafone.com/browse/DART-38469 "DART-38469")
+		- Still struggling with CAB Access. 
+- 14 Oct 
+	- [DART-37114](https://jira.sp.vodafone.com/browse/DART-37114 "DART-37114")
+		- Yesterday, I had a conversation with Ahmed, and he told me to put this ticket on hold. until he gather more information. 
+	- [DART-38469](https://jira.sp.vodafone.com/browse/DART-38469 "DART-38469")
+		- Still struggling with CAB Access. 
+	

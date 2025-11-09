@@ -1,0 +1,2 @@
+- [DART-33788](https://jira.sp.vodafone.com/browse/DART-33788 "DART-33788") last week I deployed changes, so we can mark this ticket as complete and move it to be done. 
+- [DART-34455](https://jira.sp.vodafone.com/browse/DART-34455 "DART-34455") I just start working on it today so you can move it in progress stage. 

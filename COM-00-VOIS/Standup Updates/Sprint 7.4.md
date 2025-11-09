@@ -1,0 +1,23 @@
+##### Tickets 
+- [DART-33381](https://jira.sp.vodafone.com/browse/DART-33381) AI booster Service Accounts access 
+- [DART-33369](https://jira.sp.vodafone.com/browse/DART-33369) Datasphere SA access 
+#### Updates 
+- 23 Jul 
+	- [DART-3369] Completed 
+- 24 Jul 
+	- [DART-3369] Shaimaa, this ticket dose not have enough details, such as which service account should have access to which dataset. Today I reached out to nada to ask for some clarification
+- 25 Jul 
+	- [DART-3369]  I'm still waiting  Nada answering my question 
+- 28 Jul 
+	-  [DART-3369] This ticket does not have enough details, such as which service account should have access to which dataset, Last week I reached out to Nada to ask for some details, but she hasn't replied yet. Could you please assist with that. 
+- 29 Jul 
+	-  [DART-33381](https://jira.sp.vodafone.com/browse/DART-33381) I saw Nada's comment, and I believe both service accounts should be granted access to both datasets, but I will wait for Jitendra's confirmation.
+	- [DART-33740](https://jira.sp.vodafone.com/browse/DART-33740) I raised a PR, and it has been approved. Once I receive the CRQ, I will proceed with the deployment
+	- [DART-33800](https://jira.sp.vodafone.com/browse/DART-33800) I think today i will create PR for this
+- 30 Jul 
+	- [DART-33381](https://jira.sp.vodafone.com/browse/DART-33381) I will resume working on this task 
+	- [DART-33740](https://jira.sp.vodafone.com/browse/DART-33340) Done you can mark it as complet
+	- [DART-33800](https://jira.sp.vodafone.com/browse/DART-33800) Yesterday I created PR once it approved I will proceed with deployment 
+- 31 Jul 
+	- [DART-33381](https://jira.sp.vodafone.com/browse/DART-33381) I created a PR and it approved I will deploy changes today I just need a CRQ for it. 
+	- [DART-33800](https://jira.sp.vodafone.com/browse/DART-33800) I deployed it so you can mark it as completed. 

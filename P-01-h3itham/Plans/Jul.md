@@ -1,0 +1,5 @@
+- 20 Jul 
+	- [x] Wakeup early around 5:30 AM ✅ 2025-07-20
+	- [ ] Finish GCP VPC Related topics 
+	- [x] Mazen Youtube video ✅ 2025-07-20
+	- [ ] Kubernetes component Certificate 

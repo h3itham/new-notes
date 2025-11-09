@@ -1,0 +1,7 @@
+ - VPC-SC the same projects which need to talk with each other should be in the same project
+ - Defualt modules varaibles or values 
+	 - project config 
+	 - Default inside `resources/neuron_modules_configuration`
+	 - Defulat inside terraform code itself 
+- Terraform paln on specific target 
+- Google skill partner 

@@ -1,0 +1,2 @@
+- Collection of DNS rules applied on VPC Level. 
+- Monitor DNS Logs for anomalous Domain names which evaluated against threat intelligence. 

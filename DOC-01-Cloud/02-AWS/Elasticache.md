@@ -1,0 +1,1 @@
+- Full managed in memory datastore that support redis. 

@@ -1,0 +1,8 @@
+- [ ] Take Backup from Storage folder. 
+- [ ] Disaster Recovery Test. 
+- [x] Create Custom Grafana Dashboard that contain [ Nodes memory (RAM), Cluster CPU, PVC sizes.  ] ✅ 2025-01-25
+- [ ] Deploy New version from websocket application. 
+- [ ] Talk about Security Small Monster 
+- [x] Database backup strategy. .data ✅ 2025-01-25
+- [ ] Move Maps "We need to transfer `maps.tar.gz` to the hosting. The file location `/root/maps.tar.gz` on the server with the IP address `192.168.2.10`" 
+- [ ] 

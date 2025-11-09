@@ -1,0 +1,2 @@
+- Allow projects in different primeter to communicate with each other. 
+- Bidirectional 

@@ -1,0 +1,1 @@
+https://gerlyn.medium.com/how-to-increase-ebs-volume-of-an-ec2-instance-on-aws-using-ubuntu-a5d9546f2c6f

@@ -1,0 +1,4 @@
+ - Set your goals on sucess factor. 
+ - Things which impact your ponus and salary (Automation, Project Cost Reductions)
+ - Jira is important So you need to learn it 
+ - Self Development Goals. 

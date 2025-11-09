@@ -1,0 +1,13 @@
+- All Projects in Live 
+	- vf-grp-mirep-live 
+	- vf-grp-mirep-kms
+	- vf-grp-mirep-datahub 
+	- vf-grp-mirep-dhk 
+- All Projects in Non Live 
+	- vf-grp-mirep-dev 
+	- vf-grp-datahub   < contains KMS 
+- Mirep originally named with SAC Migration
+- Mirep is the first `C4` project on GCP 
+- Documentaion https://confluence.sp.vodafone.com/pages/viewpage.action?pageId=653422658&spaceKey=SOE&title=Low-Level%2BDesign%2BLLD
+- All projects or resouces for sac migration in the following region `europ-weast3`
+- PAM Repo `https://github.vodafone.com/VFGroupCloudAnalytics/neuron-privileged-acces`

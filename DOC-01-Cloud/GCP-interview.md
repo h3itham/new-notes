@@ -1,0 +1,21 @@
+1. Could you explain the key component of google networking infrastructure? 
+	- VPC 
+	- Cloud (LoadBalancer, CDN, DNS)
+	- VPN 
+- How Dose cloud Identity Access Management ensure security in google cloud? 
+	- IAM manage access control by defining roles and permission for users. 
+- what are the benefits of using BigQuery? 
+	- Real time analytics 
+- What is google cloud security Model? 
+	- Used shared responsibility model 
+		- Google care about infra 
+		- User care about data and applications 
+- How does cloud functions differ from traditional compute service? 
+	- Cloud Functions: Serverless compute service 
+	- Run event-driven code without provisioning or managing servers. 
+- How can you reduce costs in GCP/any provider? 
+	- Right resizing resources. 
+	- use Spot/preemtiples instances 
+	- Autoscaling 
+	- Regular shutdown resources. 
+	- Cleanup unused resources. 
