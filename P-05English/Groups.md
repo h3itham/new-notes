@@ -15,40 +15,43 @@ In this document, I’ll keep sentences which I want to keep close to my heart. 
 7. Could you help me with this, please?
 8. Let me explain something to you.
 9. Make it work, make it right, make it fast.
-10. slow is smooth, smooth is fast. 
-
+10. slow is smooth, smooth is fast.
+11. We are running out of time. 
+12. Haitham is one of the most professional colleagues i have ever worked with. 
+13. bring problems and issues to my attention. 
 ### Group Two
 1. I’ll get back to you soon.
-2. It’s easier said than done.  
+2. It’s easier said than done.
 3. That makes sense.
 4. That’s a fair point.
-5. I’ll follow up with you on that.
+5. I’ll follow up with you on that. 
 6. Can you clarify what you mean? 
 7. We need to align with our priorities. 
-8. The only way to go fast is to go well.   
-9. Let’s go through that …
-10. I’ll get you through …
-11. Listen to understand not to reply. 
-12. Without fear of judgment 
-13. Never Assume ill intent. 
-14. Be factual, not emotional. 
-15. Someone who puts quality first. 
-16. Doing the right way 
-17. Your choices matter
+8. Can you prioritize this task?
+9. The only way to go fast is to go well.   
+10. Let’s go through that …
+11. I’ll get you through …
+12. Listen to understand not to reply.  
+13. Without fear of judgment.   
+14. Never Assume ill intent.
+15. Be factual, not emotional. 
+16. Someone who puts quality first. 
+17. Doing the right way. 
+18. Your choices matter. 
 #### Standup 
 - You can mark this ticket as complete.  
 - Sorry for joining late.  
 - I'm audible now.  
-- honestly speaking.  
+- honestly speaking. 
 - I hope that my screen is visible.  
 - Excuse me for a moment. 
 - Tell them they can finish the project, at their own pace. 
 - Sorry, I was caught in urgent work. 
 - No problem, let me know when you are available and we can have a call. 
-- Let's take it offline 
-- Could you please grant me access or let me know who is responsible for
+- Let's take it offline. 
+- Could you please grant me access or let me know who is responsible for that. 
 - without further ado 
-- Let me know who can help with that 
+- Let me know who can help with that. 
 - Reclaim your focus,...Reclaim your life. 
 - Could you please tell me what you are trying to do in this use case?
 - I'm fine with these tickets; I think I can finish them on time if we don’t face any blockers.

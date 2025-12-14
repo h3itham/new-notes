@@ -24,6 +24,8 @@
 	  -v bluebook-prod-media:/bluebook-prod/media \
 	  -v imad-prod-static:/imad-prod/static \
 	  -v imad-prod-media:/imad-prod/media \
+	  -v kim-media-dev:/kim-dev/media \
+	  -v kim-static-dev:/kim-dev/static \
 	  nginx:1.27 
 	```
 3. Install tools 

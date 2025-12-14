@@ -91,9 +91,9 @@
 	1. Each Loadbalancer service require it's own public IP address so for every workload (application)
 	   **But** you need public IP address with ingress you can route traffic for more than one servcie with just one IP address but with different paths (URI or sub domains)
 	   ![](ingresspower.png)
-	   1. Ingress Operation in Application layer (http) and can provide a lot of feature such as 
+	   2. Ingress Operates in Application layer (http) and can provide a lot of feature such as 
 	      cockie-based sessions affinity. 
-	  2. Loadbalancer work in Network Layer. 
+	  3. Loadbalancer work in Network Layer. 
 	- <span style="color:rgb(255, 0, 0)">What is the purpose of Ingress controller (VOIS)? </span>
 		- Routing External traffic To corresponding service in the cluster. 
 		- Load Balancing. 
@@ -151,7 +151,7 @@ I'm using `k9s` to manage all my clusters but I want memorize some commands
    Every Node has it's own labels & Pod scheduled Based on specific node labels. (Node Attract Pod)
 2. *Pod affinity*: 
     Schedule related pods to be on nearby nodes. 
-3. *Session affinnit*y: sticky session to make ensure that the same request will be served with the same pod. 
+3. *Session affinit*y: sticky session to make ensure that the same request will be served with the same pod. 
 
 **Anti affinity**
 make sure that specific pods Don't be scheduled in the same nodes. 

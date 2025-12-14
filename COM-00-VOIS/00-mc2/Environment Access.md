@@ -57,6 +57,9 @@
 	```
 	This will downlaod all project configs 
 5. You can't run apply before run plan 
+#### Tmux implementation 
+- This is script used as `tmux` tool which I build it to run every plan and apply on the background and don't distrirb any thing. 
+- script [[tmux implementaion]]
 
 ## Create Local pod 
 1. Configure your docker with the remote one 

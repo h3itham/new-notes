@@ -1,0 +1,3 @@
+- Allows users to collect, store, search, analyze, monitor and alert on log entries and events. 
+- Automatic ingestion with simple controls for routing, storing and displayin your log data. 
+- 

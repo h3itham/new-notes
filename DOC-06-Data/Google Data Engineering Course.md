@@ -136,3 +136,8 @@ Amazing image
 	![[datafusioncomponent.png]]
 #### Dataproc 
 - Fully managed service for easily create and manage Hadoop and Spark clusters.
+
+#### Namespaces 
+- Logical grouping of applications or Data
+- You can think of namespace as instance partitioning. 
+- 

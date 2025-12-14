@@ -47,3 +47,10 @@
 		  -p 27017:27017 \
 		  mongo:6.0
 		```
+
+#### General iformation about node database 
+1. Migrations definition files 
+	```txt 
+	src/db/migrations/*.ts 
+	```
+2. 

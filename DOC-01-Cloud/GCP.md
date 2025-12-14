@@ -116,7 +116,14 @@
 	- GKE Clusters 
 	- Security 
 #### LoadBalancing 
-- Distribute traffic 
+- Fully managed software defined, global Load balancing service. 
+- Types of loadblancer 
+	1. Global HTTP(S) Load balancer. 
+		- Layer 7 (application level)
+		- Distributes traffic across **multiple regions**
+		- Supports SSL termination, URL routing, CDN
+		- Used for web apps, APIs, microservices. 
+	2. Internal HTTP(S) Load Balancer. 
 
 #### IAM 
 - Identity and Access Management 

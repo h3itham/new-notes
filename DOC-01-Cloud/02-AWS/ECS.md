@@ -13,7 +13,7 @@
 - ECS eliminates the need to set up and maintain the infrastructure of Kubernetes clusters by taking responsibility over these tasks.
 - It Comes with two launch  types 
 	   1. Fargate Launch type: Delegate the management of virtual machines and servers to AWS.  
-	   2. ECS launch type: EC2 instance + ECS Agent (Server-based) 
+	   2. EC2launch type: EC2 instance + ECS Agent (Server-based) 
 #### terminologies 
 - **Cluster**: 
 	-  Logical grouping of resources (EC2 instances or Fargate)
@@ -32,3 +32,20 @@
 
 
 - **Task**: running container with the settings defined in the Task Definition. It can be thought of as an “instance” of a Task Definition.
+#### Monitoring 
+- Cloudwatch Monitoring 
+	Collect Metrics (CPU, RAM,....) & logs. ECS can push the following data to cloudwatch 
+	- ECS Cluster metrics 
+		1. CPU and Memory reservation and usage.
+		2. Running Task count
+	- Service Level Metrics 
+		1. Desired VS Running Tasks. 
+		2. Deployment status 
+	- Task Metrics 
+		1. If you use EC2 you need cloudwatch agent installed in instance. 
+#### Loging 
+- Using `Cloud Watch`
+	- from cloud watch 
+	- logs 
+	- logs group 
+	- select desired log group. 

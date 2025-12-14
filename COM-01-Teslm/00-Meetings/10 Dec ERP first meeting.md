@@ -1,0 +1,4 @@
+- In General how we can deploy this product. 
+- what is the architecture of project or project components. 
+- What do you recommend. 
+- Events done with what.  

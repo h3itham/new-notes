@@ -1,7 +1,7 @@
 - Don't Forget that you are Great Haitham. 
 - Without plan, failure is certain. 
 - time is the most valuable coin in your life. 
-- Choose peace, stay focused. 
+- Choose peace, stay focused. (Reclaim your focus, Reclaim your life)
 - Health is wealth — protect your body. 
 - make every single detail perfect, Limit number of details.  
 - When you are angry, be silent. 

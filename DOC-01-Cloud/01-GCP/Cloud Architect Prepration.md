@@ -1,1 +1,2 @@
 - Cohort ID: `PCA01-GETCERT/2025.11.03`
+- Attend exam before 02-february 

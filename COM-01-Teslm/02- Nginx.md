@@ -25,3 +25,5 @@
 	```bash 
     certbot --nginx -d canary-api.teslm.shop -d canary-chat.teslm.shop -d canary-delivery.teslm.shop -d canary-notifications.teslm.shop -d kibana.teslm.shop
 	```
+
+5. Dev Configurations [[nginx-dev]]

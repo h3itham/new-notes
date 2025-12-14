@@ -1,3 +1,0 @@
-- [ ] Don't forget to change github teams. 
-- [ ] Don't forget to deploy dutujra 
-- [ ] Don't forget to deploy Composer 

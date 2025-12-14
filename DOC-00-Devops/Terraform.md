@@ -26,7 +26,6 @@
 		1. Used for virtual machine OS-Level configuration 
 - **Idempotent**
   Run Code Once or ten thousand times, you will get the same result. 
-
 - Different between Procedural and Declarative language? 
 	- Procedural 
 		- Execute code Line By Line 
@@ -545,6 +544,8 @@ nested = [
 flatten(nested)
 [1,2,3,4,5]
 ```
+#### Null Resource 
+- Special resource type that manages **nothing** in cloud provider. 
 #### Terraform with GCP 
 - Authenticate gcloud with GCP 
 	```bash 
@@ -554,3 +555,4 @@ flatten(nested)
 	```bash 
 	gcloud projects list 
 	```
+

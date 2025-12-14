@@ -100,9 +100,9 @@ Prepare for Interview with the following
     <span style="color:rgb(0, 176, 240)"></span>
   ![](hr-01.png)
 
- 9. <span style="color:rgb(255, 0, 0)">Tell me some thing that you proud off?</span>  <span style="color:rgb(255, 255, 0)">Alerting</span> 
+ 10. <span style="color:rgb(255, 0, 0)">Tell me some thing that you proud off?</span>  <span style="color:rgb(255, 255, 0)">Alerting</span> 
 	- Situation
-		- In my current Job there was no visibility into systems and applications. 
+		- in one of my previous jobs there was no visibility into systems and applications. 
 	- Actions 
 		- I suggest that we can use prometheus and grafana to monitor both system and application
 		- I took the approval from my manager and start installing them in all stand alone machines and kubernetes clusters. 
@@ -129,6 +129,7 @@ Prepare for Interview with the following
  12. <span style="color:rgb(255, 0, 0)">Why you want to leave your old Job?</span> 
     My current job focused on on-premises infrastructure, But I want to move to cloud technologis. 
     I want to work on projects which have significant Globally. 
+	- I want to grow in more challenging environment.  improving my skills. 
 
 14. <span style="color:rgb(255, 0, 0)">What experience you have that would be relevant to this role?</span> 
 	1. I have strong foundation In networking and Operating systems. 
@@ -156,12 +157,11 @@ Prepare for Interview with the following
 	- <span style="color:rgb(255, 255, 0)">Finally</span> I solved the conflict and every one was satisfied. 
 	  
 19. <span style="color:rgb(255, 0, 0)">Give me an example of where you've exceeded your own expectations. I am keen to hear what the situation was, your actions, and the outcome of your actions.</span> (<span style="color:rgb(255, 255, 0)">Application latency</span>)
-
 	- **Situation** ******
 	   Our application had high latency, impacting user experience. 
 	- **Actions* 
 		  1. I identified bottlenecks
-		  2. optimized database queries .
+		  2. optimized database queries.
 		  3. Enabled caching.
 		  4. Replace Apache with Nginx webserver. 
 	- **Outcome**:

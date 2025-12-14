@@ -34,6 +34,7 @@
    Files Generated during different build stages. and you can use them in different stage. 
    
   7.<span style="color:rgb(255, 0, 0)"> What is prometheus? </span>
+   - Time series database which pull metrics from different sources and store them. 
    - Monitoring system  that collect metrics from systems and applications. 
    - store them inside time series database. 
 
@@ -44,9 +45,8 @@
 9. <span style="color:rgb(255, 0, 0)">Why we running database on kuberetes? </span>
 	- support for  micro servcie architecture. 
 	- High availability
-
 10. <span style="color:rgb(255, 0, 0)">What is Devops? </span>
-    - set of tools and practices which facilitate collaboration between development teams (Dev) and opeations (Ops). 
+    - set of tools and practices which facilitate collaboration between development teams (Dev) and OPeration (Ops)
     - Focus on delivering software product faster. 
 
 11. <span style="color:rgb(255, 0, 0)">What is the benfits of devops? </span>
@@ -73,9 +73,9 @@
 	- Devide stages to 
 		- Build stage.(build code) 
 		- Production stage. (just use the artiface) 
-    - Reduce Image size. 
-    - Decrease attack surface. 
-
+    - binifits 
+	    - Reduce Image size. 
+	    - Decrease attack surface. 
 13. <span style="color:rgb(255, 0, 0)">Why you want to be Devops Engineer? </span>
     - Market needs. 
     - I invest a lot of time in learning meany technologies and i want to integrate between them. 
@@ -148,7 +148,7 @@
 		- firewall 
 		- Network issues
 25. <span style="color:rgb(255, 0, 0)">What is the build process in Devops? </span>
-	is the transaltion of what programmer write (code)to what customer can use. 
+	is the transaltion of what programmer write (code) to what customer can use. 
 	
 	![](buildmean.png)
 
@@ -161,12 +161,12 @@
     is two <span style="color:rgb(255, 255, 0)">identical</span> environment one of them is live (production) (<span style="color:rgb(0, 0, 255)">blue</span>) , second Environment is Active but not live (<span style="color:rgb(0, 255, 0)">Green</span>) which all development next release is on it. Once verifed, the traffic is routed to the green environment using load Balancer. 
       ![](bluegreen.png)
   
-28. <span style="color:rgb(255, 0, 0)">What is the post moterm meeting with reference to Devops?</span>
+28. <span style="color:rgb(255, 0, 0)">What is the post moterm meeting with reference to Devops?</span> what went wrong and steps needed to avoid failues 
     Done to discus 
     1. What went wrong. 
     2. steps needed to avoid failure. 
 
-  1. <span style="color:rgb(255, 0, 0)">Name three important Devops KPIs.</span>
+  29. <span style="color:rgb(255, 0, 0)">Name three important Devops KPIs.</span>
 	  - Meantime failure recovery.   
 	  - Deployment frequency. 
 	  - Percentage of failed deployment. 
@@ -180,18 +180,17 @@
 31. <span style="color:rgb(255, 0, 0)">What is a cluster? </span>
     Group of interconnected computers or servers perform tasks as single system. 
 32. <span style="color:rgb(255, 0, 0)">What is TDD mean in software? </span>
-    TDD Test Driven development which mean that tested are written before code. 
-
-33. <span style="color:rgb(255, 0, 0)">what did you take in your consieration while chosing Devops tool? </span>
+    TDD Test Driven Development which mean that tested are written before code. 
+33. <span style="color:rgb(255, 0, 0)">what did you take in your consideration while chosing Devops tool? </span>
 	 1. stability
 	 2. community size 
 	 3. learning curve 
 
-35. <span style="color:rgb(255, 0, 0)">what is commit in git? </span>
+34. <span style="color:rgb(255, 0, 0)">what is commit in git? </span>
     code snapshot in specific time. 
      ![](commitsnapshot.png)
      
-1. <span style="color:rgb(255, 0, 0)">what is merge in github? </span>
+35. <span style="color:rgb(255, 0, 0)">what is merge in github? </span>
     combine two branches of codes together. 
 
 36. <span style="color:rgb(255, 0, 0)">what is caching? How it is work? why it is importing? </span>
@@ -223,9 +222,7 @@
     Container Network Interface. 
 
 44. <span style="color:rgb(255, 0, 0)">what is shift left mean? </span>
-    Remember SDLC (PCBPTR)
-		Plan --> Code --> Build --> Backage --> Testing --> Release
-	 Corresponding to <span style="color:rgb(0, 255, 0)">TESTING</span>. 
+    Moving testing, quality checks, and security reviews **earlier** in the development lifecycle instead of waiting until the end. 
 	Move stages from the Right side to lift side <span style="color:rgb(255, 0, 0)">why</span>? 
 	for discovering and solving problems faster. 
 
@@ -272,7 +269,6 @@
 	- Use MFA
 11. <span style="color:rgb(255, 0, 0)">What is STS?</span> 
 	secure token service which enable you to request temporary credential limited privilege. 
-
 12. <span style="color:rgb(255, 0, 0)">How can you send email to sysadmin if EC2 instance stoped?</span> 
 	I will use two main services 
 	- SNS 
@@ -316,7 +312,7 @@
 	
 	- Create four subnets (Private, Public) the public subnet would contain the load balancers and accessible from the internet. 
 	- For high availability I will use multiple availability zones. 
-	- For Scalability: I will use auto scaling groups. 
+	- For Scalability: I will use auto scaling groups if i use instances or I'll use ECS or EKS. 
 2. <span style="color:rgb(255, 0, 0)">Your organization has a VPC with multiple subnets. you want to restrict outbound internet access for resources in one subnet, but allow outbound internet access for resources in another subnet. how would you achieve this? </span>
 	- Using Route table to make subnet private I will delete the default route `0.0.0.0/0`
 	- Keep the default route for the public subnet and point it to the internet gateway. 

@@ -8,49 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f33e59ddab693d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOC-01-Cloud/GCP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GCP"
-            }
-          },
-          {
-            "id": "dbc5f7f8ef969c75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOC-01-Cloud/02-AWS/CloudFront.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CloudFront"
-            }
-          },
-          {
-            "id": "a58d9553d3368239",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COM-00-VOIS/04- Problem Context.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04- Problem Context"
-            }
-          },
-          {
-            "id": "b19fc9e3a478b615",
+            "id": "096f823f03b122ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,21 +22,76 @@
             }
           },
           {
+            "id": "4c907f74e9df31bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "P-00-DailyNotes/2025-12-14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-14"
+            }
+          },
+          {
+            "id": "dbc5f7f8ef969c75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "P-01-h3itham/Plans/Greate Haitham.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Greate Haitham"
+            }
+          },
+          {
+            "id": "a58d9553d3368239",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COM-00-VOIS/Scripts/tmux implementaion.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tmux implementaion"
+            }
+          },
+          {
+            "id": "d0363d3cc301ced6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "P-00-DailyNotes/2025-11-13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-13"
+            }
+          },
+          {
             "id": "5122636c31648627",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COM-01-Teslm/00-Database.md",
+                "file": "Linux/BenchMarking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-Database"
+              "title": "BenchMarking"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "teslm-backend",
+                "query": "@proton",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setup/obsidian.md",
+                "file": "P-02-Setup/obsidain sync.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for obsidian"
+              "title": "Backlinks for obsidain sync"
             }
           },
           {
@@ -170,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setup/obsidian.md",
+                "file": "P-02-Setup/obsidain sync.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from obsidian"
+              "title": "Outgoing links from obsidain sync"
             }
           },
           {
@@ -199,13 +212,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COM-03-Teslm/10-Logging.md",
+                "file": "P-02-Setup/obsidain sync.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 10-Logging"
+              "title": "Outline of obsidain sync"
             }
           },
           {
@@ -233,8 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5,
-    "collapsed": true
+    "width": 374.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,54 +261,54 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "b19fc9e3a478b615",
+  "active": "096f823f03b122ea",
   "lastOpenFiles": [
-    "DOC-01-Cloud/02-AWS/CloudFront.md",
-    "COM-01-Teslm/15-concernsBeforeProduction.md",
+    "COM-01-Teslm/00-Meetings/14 Oct.md",
+    "P-02-Setup/obsidain sync.md",
+    "COM-01-Teslm/00-Meetings/18 Oct.md",
+    "COM-01-Teslm/00-Meetings/18 Nov.md",
+    "COM-01-Teslm/00-Meetings/25 Oct.md",
+    "COM-01-Teslm/00-Meetings/25 Nov.md",
     "COM-01-Teslm/14-ALB and Hostinger.md",
-    "COM-01-Teslm/12- environment_variables.md",
-    "COM-01-Teslm/06-Database Backup.md",
-    "COM-01-Teslm/00-Database.md",
-    "COM-01-Teslm/13-Redis.md",
-    "COM-01-Teslm/09-backlog.md",
-    "COM-01-Teslm/13-OIDC.md",
-    "Untitled 9.base",
-    "DOC-04-Kubernetes/ExternalDNS.md",
-    "COM-01-Teslm/07- Concerns & Questions.md",
-    "DOC-01-Cloud/01-GCP/LAPs/Pub-Sub.md",
+    "P-01-h3itham/Plans/Greate Haitham.md",
+    "P-00-DailyNotes/2025-12-14.md",
+    "P-01-h3itham/Plans/30 Day Plan.md",
+    "COM-01-Teslm/02- Nginx.md",
+    "COM-01-Teslm/configurations/nginx-dev.md",
+    "COM-01-Teslm/configurations",
+    "DOC-04-Kubernetes/kubernetes.md",
+    "DOC-00-Devops/Terraform.md",
+    "COM-00-VOIS/Scripts/tmux implementaion.md",
     "COM-00-VOIS/00-mc2/Environment Access.md",
-    "DOC-01-Cloud/01-GCP/LAPs",
-    "DOC-01-Cloud/GCP.md",
-    "DOC-01-Cloud/01-GCP/IAM.md",
-    "DOC-01-Cloud/01-GCP/Perimeter Bridge.md",
-    "DOC-01-Cloud/01-GCP/cloud scheduler.md",
-    "DOC-01-Cloud/01-GCP/Cloud Architect Prepration.md",
-    "P-00-DailyNotes/2025-11-07.md",
-    "COM-01-Teslm/01-backend.md",
-    "COM-03-ACME/Reports.md",
-    "COM-00-VOIS/04-issues&solutions/00-cloudrun-workertimeout-DART-40084/00-Description.md",
-    "COM-00-VOIS/04-issues&solutions/00-cloudrun-workertimeout-DART-40084/01-code.md",
-    "COM-00-VOIS/04-issues&solutions/00-cloudrun-workertimeout-DART-40084",
-    "COM-00-VOIS/04-issues&solutions",
-    "DOC-00-Devops/GitHub Actions.md",
-    "COM-01-Teslm/14- Design Decession.md",
-    "COM-00-VOIS/04- Problem Context.md",
-    "Untitled 8.base",
-    "Untitled 7.base",
-    "COM-01-Teslm/01-RDS",
-    "DOC-01-Cloud/img/cloudfrontstaticwebsite.png",
-    "COM-00-VOIS/img/vpcsc.png",
-    "COM-01-VOIS/img/image.png",
-    "COM-00-VOIS/03-GCP",
-    "Untitled 6.base",
-    "Untitled 5.base",
-    "Pasted image 20251019180549.png",
-    "DOC-01-Cloud/img/storageproblem.png",
-    "Pasted image 20251015102144.png",
-    "Pasted image 20251014104640.png",
-    "COM-00-VOIS/img/vpc-sc.drawio.png",
-    "DOC-01-Cloud/img/gcp-vpc-implied-rules.png",
-    "COM-01-Teslm/imgs/canary-hostinger-record.png",
+    "P-00-DailyNotes/2025-12-12.md",
+    "COM-00-VOIS/Scripts",
+    "P-01-h3itham/Github Mails.md",
+    "COM-01-Teslm/00-Meetings/Raise justification.md",
+    "COM-00-VOIS/Trouble shooting.md",
+    "P-05English/Groups.md",
+    "P-01-h3itham/Great Haitham.md",
+    "COM-00-VOIS/Contacts.md",
+    "P-01-h3itham/General Backlog.md",
+    "COM-00-VOIS/01-mirep/Cross Project communication.md",
+    "DOC-06-Data/Google Data Engineering Course.md",
+    "COM-00-VOIS/img/dimension.drawio.png",
+    "DOC-01-Cloud/img/monitoring-parts.png",
+    "Untitled 18.base",
+    "Untitled 17.base",
+    "Untitled 16.base",
+    "Untitled 15.base",
+    "Untitled 14.base",
+    "COM-00-VOIS/Meetings Concultion/11",
+    "Untitled 13.base",
+    "P-03-ElAbd-Group/Untitled",
+    "COM-00-VOIS/img/semantic-arch.png",
+    "COM-00-VOIS/img/dimension-arch.png",
+    "COM-00-VOIS/img/opencomposer.png",
+    "COM-00-VOIS/img/code-after.png",
+    "Pasted image 20251113150614.png",
+    "COM-00-VOIS/img/code-before.png",
+    "COM-00-VOIS/img/gke-firewall.png",
+    "Pasted image 20251113150345.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
