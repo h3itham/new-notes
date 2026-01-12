@@ -1,0 +1,1 @@
+- MC2 Architecture: https://confluence.sp.vodafone.com/display/IHC/Neuron+MC2+Template+HLD

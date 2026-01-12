@@ -1,0 +1,1 @@
+- I Already apply deployed semantic and dimension cloud runs in `mirep-dev`

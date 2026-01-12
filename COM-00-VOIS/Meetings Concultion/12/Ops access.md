@@ -1,0 +1,7 @@
+ - I can't Access this Confluence page `https://confluence.sp.vodafone.com/spaces/BDPL/pages/557171736/Privileged+Access+Management`
+ - It is about granting `visualization team` read only access because they rely on ETL 
+ - WE can grant read only access 
+ - As Alaa siad the requiredment can be a complish with with PAM as requester 
+ - Granting permission to visuliazation team done with 
+	 - Give direct access. (Read only)
+	 - Apply PAM to grant temporary access. 

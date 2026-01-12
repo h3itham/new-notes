@@ -41,7 +41,6 @@ Prepare for Interview with the following
 			- Flexibility: I'm working with different people and opinions 
 			- Ability to multi task: I can work on more than one task while maintaing the quality of each. 
 			- Attention to details: 
-			- Finally I'm Continuous Learner: I'm always learn new technologies. 
 				![[mystrength.png]]
 
 	- Weakenss 
@@ -65,9 +64,9 @@ Prepare for Interview with the following
 5.  <span style='color:red'>Tell me about your current role and responsibilities?</span> [ Zinad IT shook]
 	As a DevOps Engineer my role starts with 
 	1.  <span style='color:cyan'>Designing CI/CD</span> Pipelines to automate software Development lifecycle. 
-	2. <span style='color:cyan'>Then</span> Creating Kubernetes cluster from scratch with different tools 
+	2. <span style='color:cyan'>Then</span> Creating Infrastructure (Kubernetes, EC2 instance, Container as a service (CloudRun | ECS ))
 	      kubeadm, Kubspray or kops. 
-	3. <span style='color:blue'>After that</span> Deploying our applications <span style="color:rgb(0, 255, 0)">onto</span> these clusters. 
+	3. <span style='color:blue'>After that</span> Deploying our applications in our infrastructure. 
 	
 	4. Monitor system & application  Performance. using monitoring tools such as (Prometheus and grafana)
 	

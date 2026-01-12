@@ -9,3 +9,6 @@
 	2. Blocks clickjacking by allowing iframes only from the same site.
 	3. Enables browser XSS filtering and blocks malicious scripts.
 	4. Restricts content loading to the same domain, preventing XSS attacks.
+
+
+ 

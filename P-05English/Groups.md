@@ -19,6 +19,8 @@ In this document, I’ll keep sentences which I want to keep close to my heart. 
 11. We are running out of time. 
 12. Haitham is one of the most professional colleagues i have ever worked with. 
 13. bring problems and issues to my attention. 
+14. Thank you for your commitment and collaboration. 
+15. Give me the green light, and I'll work on it. 
 ### Group Two
 1. I’ll get back to you soon.
 2. It’s easier said than done.
@@ -38,6 +40,7 @@ In this document, I’ll keep sentences which I want to keep close to my heart. 
 16. Someone who puts quality first. 
 17. Doing the right way. 
 18. Your choices matter. 
+19. Prioritize and execute
 #### Standup 
 - You can mark this ticket as complete.  
 - Sorry for joining late.  

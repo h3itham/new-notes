@@ -4,7 +4,7 @@
 	docker volume create redis_data
 	```
 	- Volume location in `hostinger` `/var/lib/containers/storage/volumes/redis_data/_data`
-- Redis configuration 
+- Redis configuration  the main dir ` /usr/local/etc/redis/redis.conf `
 	```bash 
 	bind 0.0.0.0
 	appendonly no 

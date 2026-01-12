@@ -42,6 +42,13 @@
 	   1. Pods are emphemral (come and go)
 	   2. Kubernetes assign IP address to pod after the pod has been scheduled to run on a node. 
 	   3. Auto scaling mean that a lot pods are created without knowing it's IPs. 
+- <span style="color:rgb(255, 0, 0)">What is multi-tenant k8s cluster is?</span> 
+	- One Cluster which used by multiple (Teams, Users, Applications & Markets). 
+	- Isolation is enforced with 
+		- RBAC (Who can access what). 
+		- Network Policies (Who can talk to whom). 
+		- Resource Qoutas & Limits (CPU, Memory)
+		- Pod Security standard
 #### Types of services 
 1. <span style="color:rgb(0, 176, 240)">clusterIP</span> "default service" 
    - Role: Internal communication within the cluster. 

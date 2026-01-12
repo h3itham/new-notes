@@ -197,7 +197,8 @@ Used to make your infrastructure configuration more flexible and reusable.
 	4. *.auto.tfvars or *.auto.tfvars.json 
 
 - **Data Sources** Use information defined outside terraform you can import or use resources that are already exists.
-#### Local  = Local Value  
+#### Local
+- Used to store calculated value. 
 - All coding languages have a fundamentsl concept of "variables" and "socpe" and terraform have. 
 - Think of them as variables that are only used within the configuration file or module. 
 - Examples 

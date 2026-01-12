@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "35401ef38f6395dc",
+        "id": "2f58119a73fee8de",
         "type": "tabs",
         "children": [
           {
-            "id": "096f823f03b122ea",
+            "id": "d57f6d688ce5377a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COM-01-Teslm/02-erp/staging/Dockerizing Frappe.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dockerizing Frappe"
+            }
+          },
+          {
+            "id": "6dc84aa0956b7468",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "P-02-Setup/obsidain sync.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -22,76 +36,49 @@
             }
           },
           {
-            "id": "4c907f74e9df31bb",
+            "id": "9203c5dba31a1d6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P-00-DailyNotes/2025-12-14.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-14"
-            }
-          },
-          {
-            "id": "dbc5f7f8ef969c75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P-01-h3itham/Plans/Greate Haitham.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Greate Haitham"
-            }
-          },
-          {
-            "id": "a58d9553d3368239",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COM-00-VOIS/Scripts/tmux implementaion.md",
+                "file": "DOC-06-Data/Postgres Crash Course.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tmux implementaion"
+              "title": "Postgres Crash Course"
             }
           },
           {
-            "id": "d0363d3cc301ced6",
+            "id": "a9c583ea028a59d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P-00-DailyNotes/2025-11-13.md",
+                "file": "P-01-h3itham/Github Mails.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-13"
+              "title": "Github Mails"
             }
           },
           {
-            "id": "5122636c31648627",
+            "id": "c8bffafd27e467be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/BenchMarking.md",
-                "mode": "source",
+                "file": "COM-01-Teslm/02-erp/canary/app.json.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BenchMarking"
+              "title": "app.json"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "@proton",
+                "query": "cert",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,8 +130,23 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "096f823f03b122ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COM-01-Teslm/00-Meetings/standup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "standup"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -164,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P-02-Setup/obsidain sync.md",
+                "file": "P-01-h3itham/Plans/30 Day Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +176,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for obsidain sync"
+              "title": "Backlinks for 30 Day Plan"
             }
           },
           {
@@ -183,12 +185,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P-02-Setup/obsidain sync.md",
+                "file": "P-01-h3itham/Plans/30 Day Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from obsidain sync"
+              "title": "Outgoing links from 30 Day Plan"
             }
           },
           {
@@ -212,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P-02-Setup/obsidain sync.md",
+                "file": "P-01-h3itham/Plans/30 Day Plan.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of obsidain sync"
+              "title": "Outline of 30 Day Plan"
             }
           },
           {
@@ -242,11 +244,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 374.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,54 +264,54 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "096f823f03b122ea",
+  "active": "6dc84aa0956b7468",
   "lastOpenFiles": [
-    "COM-01-Teslm/00-Meetings/14 Oct.md",
-    "P-02-Setup/obsidain sync.md",
-    "COM-01-Teslm/00-Meetings/18 Oct.md",
-    "COM-01-Teslm/00-Meetings/18 Nov.md",
-    "COM-01-Teslm/00-Meetings/25 Oct.md",
-    "COM-01-Teslm/00-Meetings/25 Nov.md",
-    "COM-01-Teslm/14-ALB and Hostinger.md",
-    "P-01-h3itham/Plans/Greate Haitham.md",
-    "P-00-DailyNotes/2025-12-14.md",
-    "P-01-h3itham/Plans/30 Day Plan.md",
-    "COM-01-Teslm/02- Nginx.md",
-    "COM-01-Teslm/configurations/nginx-dev.md",
-    "COM-01-Teslm/configurations",
-    "DOC-04-Kubernetes/kubernetes.md",
     "DOC-00-Devops/Terraform.md",
-    "COM-00-VOIS/Scripts/tmux implementaion.md",
-    "COM-00-VOIS/00-mc2/Environment Access.md",
-    "P-00-DailyNotes/2025-12-12.md",
-    "COM-00-VOIS/Scripts",
+    "COM-01-Teslm/02-erp/staging/General Information.md",
+    "COM-02-Bluebook/00-Bluebook Deployment.md",
+    "COM-01-Teslm/02-erp/canary/04- staging commands.md",
+    "COM-01-Teslm/02-erp/canary/app.json.md",
+    "COM-01-Teslm/02-erp/canary/03- EFS.md",
+    "COM-01-Teslm/02-erp/canary/Docker_frappe.md",
+    "COM-01-Teslm/02-erp/canary/mostafa tocken.md",
+    "COM-01-Teslm/02-erp/staging/commands.md",
+    "COM-01-Teslm/02-erp/staging/Database.md",
+    "COM-01-Teslm/02-erp/staging/Dockerizing Frappe.md",
+    "DOC-06-Data/Postgres Crash Course.md",
     "P-01-h3itham/Github Mails.md",
-    "COM-01-Teslm/00-Meetings/Raise justification.md",
-    "COM-00-VOIS/Trouble shooting.md",
-    "P-05English/Groups.md",
-    "P-01-h3itham/Great Haitham.md",
-    "COM-00-VOIS/Contacts.md",
+    "COM-01-Teslm/02-erp/canary/02- Envinronment.md",
+    "COM-01-Teslm/02-erp/canary/01-erp-canary.md",
+    "P-02-Setup/pass.md",
     "P-01-h3itham/General Backlog.md",
-    "COM-00-VOIS/01-mirep/Cross Project communication.md",
-    "DOC-06-Data/Google Data Engineering Course.md",
+    "Linux/scripts/Docker Installation.md",
+    "COM-01-Teslm/00-Meetings/Security meetings/11 Jan talah meeting.md",
+    "COM-01-Teslm/13-Redis.md",
+    "P-01-h3itham/Plans/Breaking bad habits.md",
+    "COM-01-Teslm/01-backend.md",
+    "COM-00-VOIS/01-mirep/General Infomation.md",
+    "COM-00-VOIS/01-mirep/General Information.md",
+    "COM-00-VOIS/00-mc2/Environment Access.md",
+    "COM-00-VOIS/00-mc2/Datafusion.md",
+    "Untitled 25.base",
+    "COM-02-Bluebook/05-messagehub",
+    "COM-01-Teslm/00-Meetings/Security meetings",
+    "Untitled 24.base",
+    "Untitled 23.base",
+    "Untitled 22.base",
+    "Untitled 21.base",
+    "Untitled 20.base",
+    "Untitled 19.base",
+    "COM-01-Teslm/02-erp/canary",
+    "DOC-01-Cloud/img/auto-scalar.png",
+    "DOC-01-Cloud/img/Autoscala.png",
+    "COM-00-VOIS/img/system-admin-cdf.png",
+    "COM-00-VOIS/img/rbac-datafusion.png",
     "COM-00-VOIS/img/dimension.drawio.png",
     "DOC-01-Cloud/img/monitoring-parts.png",
-    "Untitled 18.base",
-    "Untitled 17.base",
-    "Untitled 16.base",
-    "Untitled 15.base",
-    "Untitled 14.base",
-    "COM-00-VOIS/Meetings Concultion/11",
-    "Untitled 13.base",
-    "P-03-ElAbd-Group/Untitled",
     "COM-00-VOIS/img/semantic-arch.png",
     "COM-00-VOIS/img/dimension-arch.png",
     "COM-00-VOIS/img/opencomposer.png",
     "COM-00-VOIS/img/code-after.png",
-    "Pasted image 20251113150614.png",
-    "COM-00-VOIS/img/code-before.png",
-    "COM-00-VOIS/img/gke-firewall.png",
-    "Pasted image 20251113150345.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"

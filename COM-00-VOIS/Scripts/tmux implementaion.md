@@ -1,6 +1,6 @@
 ```bash 
 #!/bin/bash
-
+# vim tf-runner.sh
 # Terraform Background Runner
 # This script runs terraform wrapper scripts in background with logging and process management
 

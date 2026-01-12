@@ -4,7 +4,7 @@
 - PostgreSQL supports the most important programming language. 
 - We will use docker container to learn postgres 
 	```bash 
-	docker run -itd --name postgres -e POSTGRES_USER=root -e POSTGRES_PASSWORD=root -p 5432:5432 postgres
+	docker run -itd --name deleteme -e POSTGRES_USER=root -e POSTGRES_PASSWORD=root -p 5432:5432 postgres
 	```
 #### Connect to postgres
 There is a lot of command line tools which are used to connect and control postgres database, one of the most popular tool is `psql`
@@ -100,3 +100,10 @@ There is a lot of command line tools which are used to connect and control postg
 	```sql 
 	\dt 
 	```
+
+
+##### Extensions 
+- is a piece of software that increase database functionality. 
+- For monitor performance I'll use `pg_stat_statements`
+	- Track execution statistics of all SQL statement. 
+	- Helps find slow queries and high-load operations. 

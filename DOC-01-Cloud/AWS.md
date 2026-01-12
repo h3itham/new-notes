@@ -34,6 +34,11 @@
 	4. Access Control. 
 	5. Auditing and compliance 
 		- Track logs access events for auditing and compliance purposes. 
+
+- We have three types of Policies 
+	- AWS Managed Policy 
+	- Customer Managed Policy 
+	- Inline Policy 
 	
 - IAM Uses Cases
 	- Employee Access management. 

@@ -34,6 +34,10 @@
 	```
 	
 3. Clone all projects 
+	- Push new branches without creating them in the remote it will be created directly 
+		```bash 
+		git config --global push.autoSetupRemote true
+		```
 	- Permanently store github credential 
 		```bash
 		git config --global credential.helper store

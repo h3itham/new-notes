@@ -1,4 +1,4 @@
-- Source [Course Link](	https://www.youtube.com/playlist?list=PLtYQVzxMLm3k0TYSJtxiCdf2cReEdxLha)
+	- Source [Course Link](	https://www.youtube.com/playlist?list=PLtYQVzxMLm3k0TYSJtxiCdf2cReEdxLha)
 ### General 
 - What is the difference between `Data warehouse` & `Data lake`? (<span style="color:rgb(255, 0, 0)">Data type, UseCase, Example</span>)
 	- Data warehouse 
@@ -112,7 +112,7 @@ Amazing image
 - Built on open-source <span style="color:rgb(0, 255, 0)">Cask Data Application Platform</span> (CDAP). 
 - Data integration service for managing ETL/ELT data pipelines. 
 - Migrate Data from different sources (Bigquery, CloudStorage, Mysql, on-primses  database)
-- Consolidating (تجميع) data from different sources into data warehouse. 
+- Consolidating (تجميع) data from different sources into data warehouse.
 - Data fusion features 
 	1. Visual pipeline Design 
 	2. Support different sources

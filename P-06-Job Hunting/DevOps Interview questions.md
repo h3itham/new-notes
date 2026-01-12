@@ -217,11 +217,15 @@
 42. <span style="color:rgb(255, 0, 0)">How Dose container communicate in kubernetes? </span>
 	- If containers in the same pod it share the same resources network and storage. 
 	- Pods communicate with overlay network between them.
+43. How can you ensure that your app can handle restart in kubernetes? 
+	- Don't rely on local filesystem or in-memory state. 
+	- Store State in external services (DB, Cash, Object Storage)
+	- use readiness and liveness probes. 
 
-43. <span style="color:rgb(255, 0, 0)">what is CNI in kubernetes? </span>
+44. <span style="color:rgb(255, 0, 0)">what is CNI in kubernetes? </span>
     Container Network Interface. 
 
-44. <span style="color:rgb(255, 0, 0)">what is shift left mean? </span>
+45. <span style="color:rgb(255, 0, 0)">what is shift left mean? </span>
     Moving testing, quality checks, and security reviews **earlier** in the development lifecycle instead of waiting until the end. 
 	Move stages from the Right side to lift side <span style="color:rgb(255, 0, 0)">why</span>? 
 	for discovering and solving problems faster. 

@@ -1,0 +1,1 @@
+- I'll start write my daily journaling for more than on purpose one of them is to document my journey to the success and greatness, and write a lot of english words. 

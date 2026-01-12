@@ -1,6 +1,7 @@
 - MC2: stands for Minimum capability. 
 - Focused in financial reporting. Expanded later to include telecom business.
 - Designed to support **monthly data provisioning** from local markets (e.g., Germany) to Vodafone Group’s finance reporting systems. 
+- Utliise existing GCP Data Lakes across vodafone such as Data Hub projects for local markets. 
 - Every Local Market has three project 
 	- Storage Project: For MC2 ETL Team only.  
 	- Datahub Project: For All ETL from any team.  
